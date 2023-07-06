@@ -1,0 +1,24 @@
+:root{
+    --colorRojo:#b81e14;
+    --colorGris:#92908b;
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1180px;
+    background-image: url('/img/bg-body.png');
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
+}
+li{
+    list-style: none;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ 
+}
